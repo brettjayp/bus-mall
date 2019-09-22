@@ -24,8 +24,8 @@ Constructor function will contain (overall):
     - text string to use for HTML ID
     - 
 
-function to display 3 options
-function to ensure no duplicates onscreen
+<!-- function to display 3 options -->
+<!-- function to ensure no duplicates onscreen -->
 function to prevent immediate repeats
 function to increase display count
 function to increase click count
